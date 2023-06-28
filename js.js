@@ -1,3 +1,4 @@
+'use strict'
 // for (let i = 0; i<2;i++){
 //     let a = prompt("Введите обязательную статью расходов в этом месяце", '')
 //         b = prompt("Во сколько обойдется?", '');
@@ -28,3 +29,11 @@
 //     i++;
 // }
 // while (i<2);
+
+let magazin = {
+    banana: fruit,
+    name: vegetablesandfruits,
+    cucomber: vegetables,
+    quantity: 1000
+};
+console.log(magazin.quantity)
