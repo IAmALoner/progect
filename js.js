@@ -30,10 +30,12 @@
 // }
 // while (i<2);
 
-let magazin = {
-    banana: fruit,
-    name: vegetablesandfruits,
-    cucomber: vegetables,
-    quantity: 1000
-};
-console.log(magazin.quantity)
+// let magazin = {
+//     banana: 'fruit',
+//     name: 'vegetablesandfruits',
+//     cucomber: 'vegetables',
+//     quantity: 1000
+// };
+// console.log(magazin.name);
+// console.log(typeof(+'4'));
+// console.log([]+1+2);
